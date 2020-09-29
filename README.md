@@ -1,12 +1,12 @@
 # Batalha de devs
 
-Esse é um projeto na qual nós desenvolvedores testamos nossas habilidades como devs e nos divertimos um pouco com uma disputa amigável haha.
+Esse é um projeto na qual nós desenvolvedores testamos nossas habilidades como devs e nos divertimos um pouco com uma disputa amigável.
 A idéia é encontrar desafios na internet e tentar resolvê-los da melhor forma possível.
 
 Esse evento está ocorrendo no [meu canal no YouTube](https://www.youtube.com/channel/UChuEARzsnTTsoUYDkQuz4VA?view_as=subscriber). Basta acompanhar a playlist [batalha de devs](https://www.youtube.com/playlist?list=PLYwMNc6LhX89D5NryyIrxTC_Gp4P1yC9v).
 
 Começamos utilizando o site [codewars](https://www.codewars.com/). Basta criar uma conta com o github para ter acesso aos desafios.
-Posteriormente estaremos utilizando o site [projecteuler](https://projecteuler.net/).
+Posteriormente estaremos utilizando o site [projecteuler](https://projecteuler.net/) e outros.
 
 ## Pontuação
 
