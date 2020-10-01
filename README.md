@@ -23,5 +23,5 @@ Posteriormente estaremos utilizando o site [projecteuler](https://projecteuler.n
 - [Luis Fernando](https://gitlab.com/FernandoDeOliveira)
   - [Repositório com as soluções](https://gitlab.com/FernandoDeOliveira/batalha-de-devs)
 - [Gilson Santos](https://github.com/gilsonsantos03)
-  - Repositório com as soluções
+  - [Repositório com as soluções](https://github.com/gilsonsantos03/batalha-de-devs)
 - Comentaristas do YouTube ou do [instagram](https://www.instagram.com/labdomatheus/)
