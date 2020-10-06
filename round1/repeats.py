@@ -3,7 +3,8 @@ from memory_profiler import profile
 import time
 import random
 
-l = [random.randint(0, 1000) for i in range(10**4)]
+random.seed(1234)
+l = [random.randint(0, 100) for i in range(20*10**3)]
 print(len(l))
 
 inicio = time.time()
