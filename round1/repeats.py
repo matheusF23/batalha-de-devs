@@ -1,7 +1,11 @@
 # Retornar a soma dos números que não se repetem
+from memory_profiler import profile
 
-l = [4, 5, 7, 5, 4, 8]
+l = [3,3,4,4,7,8]
+
+@profile
 def repeats(l):
     return sum([i for i in l if l.count(i) == 1])
 
-print(repeats(l))
+if __name__ == '__main__':
+    repeats(l)
