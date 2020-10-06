@@ -26,21 +26,21 @@
     - **Gilson:** 1
     - **Matheus** 1
 
-    - **Vencedor:** Gilson e Matheus. 2 pontos para cada um.
+    - ***Vencedor:*** Gilson e Matheus. 2 pontos para cada um.
 
   - **Tempo de execução** - O código foi executado 5 vezes e o menor tempo de execução foi escolhido. Soma 3 pontos ao vencedor.
     - **Fernando:** 1.1205*10^(-5) s
     - **Gilson:** 1.0728*10^(-5) s
     - **Matheus:** 1.0967*10^(-5) s
 
-    - **Vencedor:** Gilson. 3 pontos.
+    - ***Vencedor:*** Gilson. 3 pontos.
   
   - **Uso de memória** - Para medição de eficiência do código utilizou-se uma biblioteca para medir o uso da memória. Novamente execultou-se 5 vezes e foi escolhido o menor valor. Soma 4 pontos ao vencedor.
     - **Fernando:** 116 MB
     - **Gilson:** 14.4 MB
     - **Matheus:** 14.3 MB
 
-    - **Vencedor:** Matheus. 4 pontos.
+    - ***Vencedor:*** Matheus. 4 pontos.
 
 * **2º Desafio**
   - **Quantidade de linhas**
@@ -48,21 +48,21 @@
     - **Gilson:** 
     - **Matheus** 
 
-    - **Vencedor:** 
+    - ***Vencedor:*** 
 
   - **Tempo de execução** 
     - **Fernando:**
     - **Gilson:** 
     - **Matheus:** 
 
-    - **Vencedor:**
+    - ***Vencedor:***
   
   - **Uso de memória**
     - **Fernando:**
     - **Gilson:** 
     - **Matheus:** 
 
-    - **Vencedor:** 
+    - ***Vencedor:*** 
 
 * **3º Desafio**
   - **Quantidade de linhas**
@@ -70,19 +70,19 @@
     - **Gilson:** 
     - **Matheus** 
 
-    - **Vencedor:** 
+    - ***Vencedor:*** 
 
   - **Tempo de execução** 
     - **Fernando:**
     - **Gilson:** 
     - **Matheus:** 
 
-    - **Vencedor:**
+    - ***Vencedor:***
   
   - **Uso de memória**
     - **Fernando:**
     - **Gilson:** 
     - **Matheus:** 
 
-    - **Vencedor:** 
+    - ***Vencedor:*** 
   
