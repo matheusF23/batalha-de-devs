@@ -20,35 +20,35 @@
 ## Resultados por desafio
 
 
-* **1º Desafio**
-  - **Quantidade de linhas** - O nome da função não entra na contagem. Soma 2 pontos ao vencedor.
-    - **Fernando:** 9
-    - **Gilson:** 1
-    - **Matheus** 1
+* **1º Desafio** [Soma dos não repetidos](https://www.codewars.com/kata/59f11118a5e129e591000134)
+  - **Quantidade de linhas** - O nome da função entra na contagem. Soma 2 pontos ao vencedor.
+    - **Fernando:** 10
+    - **Gilson:** 2
+    - **Matheus** 2
 
     - ***Vencedor:*** Gilson e Matheus. 2 pontos para cada um.
 
   - **Tempo de execução** - O código foi executado 5 vezes e o menor tempo de execução foi escolhido. Soma 3 pontos ao vencedor.
-    - **Fernando:** 1.1205*10^(-5) s
-    - **Gilson:** 1.0728*10^(-5) s
-    - **Matheus:** 1.0967*10^(-5) s
+    - **Fernando:** 
+    - **Gilson:** 
+    - **Matheus:**
 
     - ***Vencedor:*** Gilson. 3 pontos.
   
-  - **Uso de memória** - Para medição de eficiência do código utilizou-se uma biblioteca para medir o uso da memória. Novamente execultou-se 5 vezes e foi escolhido o menor valor. Soma 4 pontos ao vencedor.
-    - **Fernando:** 116 MB
-    - **Gilson:** 14.4 MB
-    - **Matheus:** 14.3 MB
-
-    - ***Vencedor:*** Matheus. 4 pontos.
-
-* **2º Desafio**
-  - **Quantidade de linhas**
+  - **Uso de memória** - Para medição de eficiência do código utilizou-se uma biblioteca para medir o uso da memória. Novamente execultou-se 5 vezes e foi escolhido o menor valor. Soma 3 pontos ao vencedor.
     - **Fernando:** 
     - **Gilson:** 
-    - **Matheus** 
+    - **Matheus:** 
 
-    - ***Vencedor:*** 
+    - ***Vencedor:*** Matheus. 3 pontos.
+
+* **2º Desafio** [Pares consecutivos](https://www.codewars.com/kata/5a3e1319b6486ac96f000049)
+  - **Quantidade de linhas**
+    - **Fernando:** 3
+    - **Gilson:** 2
+    - **Matheus** 2
+
+    - ***Vencedor:*** Gilson e Matheus. 2 pontos para cada um.
 
   - **Tempo de execução** 
     - **Fernando:**
@@ -60,17 +60,17 @@
   - **Uso de memória**
     - **Fernando:**
     - **Gilson:** 
-    - **Matheus:** 
+    - **Matheus:**
 
     - ***Vencedor:*** 
 
-* **3º Desafio**
+* **3º Desafio** [Mapeamento de matriz](https://www.codewars.com/kata/5f5802bf4c2cc4001a6f859e)
   - **Quantidade de linhas**
-    - **Fernando:** 
-    - **Gilson:** 
-    - **Matheus** 
+    - **Fernando:** 3
+    - **Gilson:** 2
+    - **Matheus** 2
 
-    - ***Vencedor:*** 
+    - ***Vencedor:*** Gilson e Matheus. 2 pontos para cada um.
 
   - **Tempo de execução** 
     - **Fernando:**
@@ -80,7 +80,7 @@
     - ***Vencedor:***
   
   - **Uso de memória**
-    - **Fernando:**
+    - **Fernando:** 
     - **Gilson:** 
     - **Matheus:** 
 
