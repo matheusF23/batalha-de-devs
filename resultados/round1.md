@@ -44,7 +44,7 @@
 
 * **2º Desafio** [Pares consecutivos](https://www.codewars.com/kata/5a3e1319b6486ac96f000049)
   - **Quantidade de linhas**
-    - **Fernando:** 3
+    - **Fernando:** 4
     - **Gilson:** 2
     - **Matheus** 2
 
