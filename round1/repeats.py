@@ -4,7 +4,7 @@ import time
 import random
 
 random.seed(1234)
-l = [random.randint(0, 100) for i in range(20*10**3)]
+l = [random.randint(0, 2000) for i in range(20*10**3)]
 print(len(l))
 
 inicio = time.time()

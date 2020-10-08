@@ -29,16 +29,16 @@
     - ***Vencedor:*** Gilson e Matheus. 2 pontos para cada um.
 
   - **Tempo de execução** - O código foi executado 5 vezes e o menor tempo de execução foi escolhido. Soma 3 pontos ao vencedor.
-    - **Fernando:** 
-    - **Gilson:** 
-    - **Matheus:**
+    - **Fernando:** Ultrapassou os 10 min, então cancelei a execução.
+    - **Gilson:** 6.216984033584595 s
+    - **Matheus:** 6.221295356750488 s
 
     - ***Vencedor:*** Gilson. 3 pontos.
   
-  - **Uso de memória** - Para medição de eficiência do código utilizou-se uma biblioteca para medir o uso da memória. Novamente execultou-se 5 vezes e foi escolhido o menor valor. Soma 3 pontos ao vencedor.
-    - **Fernando:** 
-    - **Gilson:** 
-    - **Matheus:** 
+  - **Uso de memória** - Utilizou-se uma biblioteca (memory profiler) para medir o uso da memória. Novamente execultou-se 5 vezes e foi escolhido o menor valor. Soma 3 pontos ao vencedor.
+    - **Fernando:** Não foi possível medir devido a demora na execução
+    - **Gilson:** 18.0 MiB
+    - **Matheus:** 17.6 MiB
 
     - ***Vencedor:*** Matheus. 3 pontos.
 
@@ -51,18 +51,18 @@
     - ***Vencedor:*** Gilson e Matheus. 2 pontos para cada um.
 
   - **Tempo de execução** 
-    - **Fernando:**
-    - **Gilson:** 
-    - **Matheus:** 
+    - **Fernando:** 2.373582601547241 s
+    - **Gilson:** 2.356950044631958 s
+    - **Matheus:** 2.3883047103881836 s
 
-    - ***Vencedor:***
+    - ***Vencedor:*** Gilson. 3 pontos
   
   - **Uso de memória**
-    - **Fernando:**
-    - **Gilson:** 
-    - **Matheus:**
+    - **Fernando:** 54.4 MiB
+    - **Gilson:** 25 MiB
+    - **Matheus:** 17.9 MiB
 
-    - ***Vencedor:*** 
+    - ***Vencedor:*** Matheus. 3 pontos.
 
 * **3º Desafio** [Mapeamento de matriz](https://www.codewars.com/kata/5f5802bf4c2cc4001a6f859e)
   - **Quantidade de linhas**
