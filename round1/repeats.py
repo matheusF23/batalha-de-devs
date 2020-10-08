@@ -9,9 +9,11 @@ print(len(l))
 
 inicio = time.time()
 
+
 @profile
 def repeats(l):
     return sum([i for i in l if l.count(i) == 1])
+
 
 if __name__ == '__main__':
     print(repeats(l))
