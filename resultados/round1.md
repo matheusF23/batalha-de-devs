@@ -73,16 +73,22 @@
     - ***Vencedor:*** Gilson e Matheus. 2 pontos para cada um.
 
   - **Tempo de execução** 
-    - **Fernando:**
-    - **Gilson:** 
-    - **Matheus:** 
+    - **Fernando:** 51.36718726158142 s
+    - **Gilson:** Passou mais de 10 min em execução. Então parei.
+    - **Matheus:** 4.700446128845215 s
 
-    - ***Vencedor:***
+    - ***Vencedor:*** Matheus. 3 pontos
   
   - **Uso de memória**
-    - **Fernando:** 
-    - **Gilson:** 
-    - **Matheus:** 
+    - **Fernando:** 75.7 MiB
+    - **Gilson:** Não foi possível medir devido o elevado tempo de execução.
+    - **Matheus:** 30.7 MiB
 
-    - ***Vencedor:*** 
+    - ***Vencedor:*** Matheus. 3 pontos
   
+* **Total de pontos**
+  - **Fernando:** 0 Pontos.
+  - **Gilson:** 12 Pontos.
+  - **Matheus:** 18 Pontos.
+
+**Vencedor do primeiro round:** Matheus (vulgo eu).
