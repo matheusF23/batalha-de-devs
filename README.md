@@ -11,7 +11,8 @@ Posteriormente estaremos utilizando o site [projecteuler](https://projecteuler.n
 ## Pontuação
 
 - Menor quantidade de linhas de código
-- menor tempo de execução
+- Menor tempo de execução
+- Menor uso de memória
 
 ## Regras
 
